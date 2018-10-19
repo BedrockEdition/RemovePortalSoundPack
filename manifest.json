@@ -1,0 +1,18 @@
+{
+	"format_version": 1,
+	"header": {
+		"description": "[PATCH] Remove portal sound",
+		"name": "RemovePortalSoundPack",
+		"uuid": "a3e5c272-71c0-4790-8f6e-c8bed2b6a6a6",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 2, 6]
+	},
+	"modules": [
+		{
+			"description": "Remove portal sound",
+			"type": "resources",
+			"uuid": "b518dd3d-b88f-4d29-8948-22535527a228",
+			"version": [1, 0, 0]
+		}
+	]
+}
